@@ -1,0 +1,69 @@
+{
+    "stafs": [
+        {
+            "id": "1",
+            "name": "Joshua Brown",
+            "email": "joshua.brown@gmail.com",
+            "phone": "+1.234567",
+            "role": "Developer"
+        },
+        {
+            "id": "2",
+            "name": "Brown",
+            "email": "brown@gmail.com",
+            "phone": "+1.2446767",
+            "role": "Designer"
+        },
+        {
+            "id": "3",
+            "name": "Joshua Brown kelma",
+            "email": "joshua.brownkelma@gmail.com",
+            "phone": "+1.543764",
+            "role": "Frontend Developer"
+        },
+        {
+            "id": "4",
+            "name": "kelma Brown",
+            "email": "kelma.brown@gmail.com",
+            "phone": "+1.722373",
+            "role": "Backend Developer"
+        },
+        {
+            "id": "1",
+            "name": "Database Kelma",
+            "email": "database.kelma@gmail.com",
+            "phone": "+1.234567",
+            "role": "Database Developer"
+        }
+
+            
+    ],
+
+    "salary":[
+        {
+            "id": "1",
+            "role": "Developer",
+            "salary": "$ 3000"
+        },
+        {
+            "id": "2",
+            "role": "Designer",
+            "salary": "$ 1000"
+        },
+        {
+            "id": "3",
+            "role": "Frontend Developer",
+            "salary": "$ 2000"
+        },
+        {
+            "id": "4",
+            "role": "Backend Developer",
+            "salary": "$ 3000"
+        },
+        {
+            "id": "1",
+            "role": "Database Developer",
+            "salary": "$ 1500"
+        }
+    ]
+}
